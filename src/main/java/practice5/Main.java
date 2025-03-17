@@ -10,6 +10,5 @@ public class Main {
         dispatcher.control(car);
         dispatcher.getInfo(plane);
 
-
     }
 }

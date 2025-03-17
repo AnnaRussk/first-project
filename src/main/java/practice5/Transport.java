@@ -1,8 +1,8 @@
 package practice5;
 
 public abstract class Transport {
-    private double speed;
-    private int capacity;
+    private final double speed;
+    private final int capacity;
 
     Transport(double speed, int capacity) {
         this.speed = speed;

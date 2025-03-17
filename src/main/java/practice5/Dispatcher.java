@@ -8,5 +8,6 @@ public class Dispatcher {
     public void getInfo(Transport transport) {
         System.out.println("Скорость транспорта: " + transport.getSpeed());
         System.out.println("Вместимость транспорта: " + transport.getCapacity());
+
     }
 }

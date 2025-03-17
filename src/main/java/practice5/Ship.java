@@ -5,6 +5,7 @@ public class Ship extends Transport {
         super(40,50000);
     }
 
+
     @Override
     public void start() {
         System.out.println("корабль поплыл");
