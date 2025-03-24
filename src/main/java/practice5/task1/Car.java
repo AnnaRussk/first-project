@@ -1,4 +1,4 @@
-package practice5;
+package practice5.task1;
 
 public class Car extends Transport {
     public Car() {
